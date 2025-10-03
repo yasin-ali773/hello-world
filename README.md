@@ -1,3 +1,10 @@
 # hello-world
 
-what am i suppose to do
+#include <iostream>
+using namespace std;
+
+int main () {
+    cout << "hello world" << endl;
+
+    return 0;
+}
