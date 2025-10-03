@@ -1,5 +1,6 @@
 # hello-world
 
+<<<<<<< HEAD
 #include <iostream>
 using namespace std;
 
@@ -8,3 +9,4 @@ int main () {
 
     return 0;
 }
+=======
